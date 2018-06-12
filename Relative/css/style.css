@@ -7,8 +7,83 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	overflow: hidden;
+	
 }
 
 .box .snowman {
 	font-size: 40px;
+}
+
+.stairs {
+	background-color: black;
+	width: 10px;
+	height: 5px;
+	position: relative;
+}
+
+.stairs:nth-of-type(1) {
+	left: 0px;
+}
+
+.stairs:nth-of-type(2) {
+	left: 10px;
+}
+
+.stairs:nth-of-type(3) {
+	left: 20px;
+}
+
+.stairs:nth-of-type(4) {
+	left: 30px;
+}
+
+.stairs:nth-of-type(5) {
+	left: 40px;
+}
+
+.stairs:nth-of-type(6) {
+	left: 50px;
+}
+.stairs:nth-of-type(7) {
+	left: 60px;
+}
+.stairs:nth-of-type(8) {
+	left: 70px;
+}
+.stairs:nth-of-type(9) {
+	left: 80px;
+}
+.stairs:nth-of-type(10) {
+	left: 90px;
+}
+.stairs:nth-of-type(11) {
+	left: 100px;
+}
+.stairs:nth-of-type(12) {
+	left: 110px;
+}
+.stairs:nth-of-type(13) {
+	left: 120px;
+}
+.stairs:nth-of-type(14) {
+	left: 130px;
+}
+.stairs:nth-of-type(15) {
+	left: 140px;
+}
+.stairs:nth-of-type(16) {
+	left: 150px;
+}
+.stairs:nth-of-type(17) {
+	left: 170px;
+}
+.stairs:nth-of-type(18) {
+	left: 190px;
+}
+.stairs:nth-of-type(19) {
+	left: 210px;
+}
+.stairs:nth-of-type(20) {
+	left: 230px;
 }

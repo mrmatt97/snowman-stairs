@@ -5,3 +5,71 @@ body {
 .snowman {
 	font-size: 100px;
 }
+
+.stairs {
+	height: 100%;
+	width: 100px;
+	background-color: black;
+	position: fixed;
+}
+
+.stairs:nth-of-type(1) {
+	right: 0px;
+	top: 0px;
+	
+}
+
+.stairs:nth-of-type(2) {
+	left: 100px;
+	top: 170px;
+}
+
+.stairs:nth-of-type(3) {
+	left: 200px;
+	top: 200px;
+}
+
+.stairs:nth-of-type(4) {
+	left: 300px;
+	top: 230px;
+}
+
+.stairs:nth-of-type(5) {
+	left: 400px;
+	top: 260px;
+}
+.stairs:nth-of-type(6) {
+	left: 500px;
+	top: 290px;
+}
+.stairs:nth-of-type(7) {
+	left: 600px;
+	top: 320px;
+}
+.stairs:nth-of-type(8) {
+	left: 700px;
+	top: 350px;
+}
+.stairs:nth-of-type(9) {
+	left: 800px;
+	top: 380px;
+}
+.stairs:nth-of-type(10) {
+	left: 900px;
+	top: 410px;
+}
+.stairs:nth-of-type(11) {
+	left: 1000px;
+	top: 440px;
+}
+
+.stairs:nth-of-type(12) {
+	left: 1100px;
+	top: 470px;
+}
+
+.stairs:nth-of-type(13) {
+	left: 1200px;
+	top: 500px;
+}
+
